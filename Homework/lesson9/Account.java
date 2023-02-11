@@ -1,8 +1,5 @@
 package lesson9;
 
-/*
-3. Створити клас Account з внутрішнім класом, за допомогою об'єктів якого можна зберігати інформацію про всі операції з рахунком (зняття, платежі, надходження).
- */
 public class Account {
 
     public void setAccountName(String accountName) {
@@ -29,10 +26,9 @@ public class Account {
         public void setPayment(int payment) {
             this.payment = payment;
         }
-        public String operationInfo(){
+        private String operationInfo(){
             return "withdrawal: " + withdrawal + " | replenishment: " + replenishment + " | payment: " + payment;
         }
-
 
     }
 
@@ -42,7 +38,6 @@ public class Account {
         accountOperation.setReplenishment(replenishment);
         accountOperation.setPayment(payment);
     }
-
 
     @Override
     public String toString() {

@@ -59,7 +59,6 @@ public class Payment {
         return listName;
     }
 
-
     public void run(){
         shoppingList = new ShoppingList();
         enterListName();
