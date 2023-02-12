@@ -5,7 +5,7 @@ public class WeekDayMain {
         Weekday [] weekdays = Weekday.values();
 
         for (Weekday el: weekdays) {
-            System.out.println(el.toString() +  " is a workday - " + el.isWeekDay());
+            System.out.println(el.toString() +  " is a workday? - " + el.isWeekDay());
         }
 
     }

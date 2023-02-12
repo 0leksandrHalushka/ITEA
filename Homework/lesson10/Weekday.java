@@ -2,7 +2,6 @@ package lesson10;
 
 public enum Weekday {
     MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
-
         public boolean isWeekDay(){
             switch (this){
                 case MONDAY:
