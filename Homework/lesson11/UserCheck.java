@@ -9,7 +9,7 @@ public class UserCheck {
 
         if (!onlyLatinAlphabetLogin || login.length() >= 20 ) {
             throw new WrongLoginException("Incorrect login");
-        } else if (!onlyLatinAlphabetPassword || password.length() > 20 || !password.equals(confirmPassword)) {
+        } else if (!onlyLatinAlphabetPassword || password.length() >= 20 || !password.equals(confirmPassword)) {
             throw new WrongPasswordException("Incorrect password");
         } else {
             return true;
@@ -21,7 +21,7 @@ public class UserCheck {
         boolean resultCheck = false;
 
         try {
-            resultCheck = checkUser("1234567890qwerty_1", "1234567890qwertyui111", "1234567890qwertyui1");
+            resultCheck = checkUser("1234567890qwerty_1", "1234567890qwertyui1", "1234567890qwertyui1");
             System.out.println(resultCheck);
         } catch (WrongPasswordException | WrongLoginException exception) {
             System.out.println(resultCheck);
