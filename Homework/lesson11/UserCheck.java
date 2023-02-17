@@ -17,8 +17,8 @@ public class UserCheck {
 
     }
 
-    public static void main(String[] args) throws WrongLoginException, WrongPasswordException {
-        boolean resultCheck = false;
+    public static void main(String[] args){
+        boolean resultCheck;
         try {
             resultCheck = checkUser("1234567890qwerty_1", "1234567890qwertyui1", "1234567890qwertyui1");
         } catch (WrongPasswordException | WrongLoginException exception) {
@@ -28,7 +28,6 @@ public class UserCheck {
         }
 
         System.out.println(resultCheck);
-
     }
 
 }
