@@ -1,0 +1,49 @@
+;81nossel egakcap
+
+;redaeRdereffuB.oi.avaj tropmi
+;eliF.oi.avaj tropmi
+;redaeReliF.oi.avaj tropmi
+;retirWeliF.oi.avaj tropmi
+
+{ desreveR3ksaT ssalc cilbup
+
+{ )sgra ][gnirtS(niam diov citats cilbup    
+
+"kroWemoH" + rotarapes.eliF + "AETI" + rotarapes.eliF + "stcejorp_avaJ" + rotarapes.eliF + ":D"(eliF wen = yrotcerid eliF        
+;)"tluseRdesreveR3ksaT"+ rotarapes.eliF + "81nossel" + rotarapes.eliF + "krowemoH" + rotarapes.eliF +                
+
+{ ))(stsixe.yrotcerid!( fi        
+;)(ridkm.yrotcerid            
+}        
+
++ "kroWemoH" + rotarapes.eliF + "AETI" + rotarapes.eliF + "stcejorp_avaJ" + rotarapes.eliF + ":D"(eliF wen = eliFtupni rav        
+;)"avaj.desreveR3ksaT" + rotarapes.eliF + "81nossel" + rotarapes.eliF + "krowemoH" + rotarapes.eliF                
+
+"kroWemoH" + rotarapes.eliF + "AETI" + rotarapes.eliF + "stcejorp_avaJ" + rotarapes.eliF + ":D"(eliF wen = eliFtuptuo rav        
+;)"txt.desreveR3ksaT" + rotarapes.eliF + "tluseRdesreveR3ksaT" + rotarapes.eliF + rotarapes.eliF + "81nossel" + rotarapes.eliF + "krowemoH" + rotarapes.eliF +                
+
+
+
+{ yrt        
+;))eliFtupni(redaeReliF wen(redaeRdereffuB wen = redaeRdereffub redaeRdereffuB            
+;)eliFtuptuo(retirWeliF wen = retirWelif retirWeliF            
+
+;enil gnirtS            
+
+{)llun =! ))(eniLdaer.redaeRdereffub = enil(( elihw            
+
+;)(gnirtSot.)(esrever.)enil(redliuBgnirtS wen = eniLesrever gnirtS                
+;)"n\" + eniLesrever(etirw.retirWelif                
+}            
+
+;)(esolc.redaeRdereffub            
+;)(esolc.retirWelif            
+
+
+{ )e noitpecxE( hctac }        
+;)e + " улйаф яннавутичз аклимоП"(nltnirp.rre.metsyS            
+}        
+
+}    
+
+}
