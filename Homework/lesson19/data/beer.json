@@ -1,0 +1,36 @@
+{
+  "alcohol": true,
+  "name": "HoeGaarden",
+  "ingredients": [
+    "Water",
+    "Hops",
+    "Ungerminated wheat",
+    "Barley malt",
+    "Unmilled oats",
+    "Coriander"
+  ],
+  "type": "Ale",
+  "manufactured": "Brouwerij Hoegaarden",
+  "chars": [
+    {
+      "name": "Alcohol",
+      "value": "4.9%"
+    },
+    {
+      "name": "Transparency",
+      "value": "70%"
+    },
+    {
+      "name": "Filtered",
+      "value": "false"
+    },
+    {
+      "name": "NutritionValue",
+      "value": "43 kcal/100 ml"
+    },
+    {
+      "name": "Tare",
+      "value": "0.33 l, glass bottle"
+    }
+  ]
+}
