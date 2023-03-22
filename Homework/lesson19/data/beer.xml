@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Beer>
+    <BeerName>HoeGaarden</BeerName>
+    <Type>Ale</Type>
+    <Alcohol>true</Alcohol>
+    <Manufacture>Brouwerij Hoegaarden</Manufacture>
+    <Ingredients>
+        <Ingredient>Water</Ingredient>
+        <Ingredient>Hops</Ingredient>
+        <Ingredient>Ungerminated wheat</Ingredient>
+        <Ingredient>Barley malt</Ingredient>
+        <Ingredient>Unmilled oats</Ingredient>
+        <Ingredient>Coriander</Ingredient>
+    </Ingredients>
+    <Chars>
+        <Char>
+            <Name>Alcohol</Name>
+            <Value>4.9%</Value>
+        </Char>
+        <Char>
+            <Name>Transparency</Name>
+            <Value>70%</Value>
+        </Char>
+        <Char>
+            <Name>Filtered</Name>
+            <Value>false</Value>
+        </Char>
+        <Char>
+            <Name>NutritionValue</Name>
+            <Value>43 kcal/100 ml</Value>
+        </Char>
+        <Char>
+            <Name>Tare</Name>
+            <Value>0.33 l, glass bottle</Value>
+        </Char>
+    </Chars>
+</Beer>
